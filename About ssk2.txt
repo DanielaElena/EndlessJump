@@ -1,0 +1,5 @@
+To make ssk2 work you have to copy the ssk2 folder in 2 locations:
+1.C:\Program Files (x86)\Corona Labs\Corona\Resources 
+	-> where the program was installed,but the ssk2 folder has to be in Resources
+1.C:\Users\<user>\AppData\Roaming\Corona Labs\Corona Simulator\Plugins
+	-> in the plugins folder of Corona Simulator
